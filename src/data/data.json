@@ -1,0 +1,14 @@
+{
+    "ucp": {
+        "unitTitle": "UCP",
+        "commentStyle": "//",
+        "unitFull": "Unix & C Programming",
+        "slogan": "Does <i>UCP</i> make you want to UC-<i>flee</i> your computing <i>degree</i>?"
+    },
+    "other": {
+        "unitTitle": "Computing Study",
+        "commentStyle": "#",
+        "unitFull": "PDI, UCP, DSA, FOP",
+        "slogan": "Does <i>PDI</i> make you want to PD-<i>die</i>?<br/>Has studying <i>FOP</i> been a complete <i>flop</i>?<br/>Does <i>DSA</i> just ruin your <i>day</i>?<br/>Does <i>UCP</i> make you want to UC-<i>flee</i> your computing <i>degree</i>?"
+    }
+}
